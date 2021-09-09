@@ -10,7 +10,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-<<<<<<< HEAD
     "@react-native-community/masked-view": "0.1.11",
     "react": "17.0.2",
     "react-native": "0.65.1",
@@ -20,10 +19,6 @@
     "react-navigation": "4.4.4",
     "react-redux": "7.2.5",
     "redux": "4.1.1"
-=======
-    "react": "17.0.2",
-    "react-native": "0.65.1"
->>>>>>> cb03405a4b64cb46a2a47b0ffda62153ce6e621d
   },
   "devDependencies": {
     "@babel/core": "7.15.5",
